@@ -1,0 +1,15 @@
+id: town
+name: みどり野町
+short_name: みどり野町
+kind: municipality
+kind_label: 架空の町
+accent: '#416d79'
+eyebrow: MIDORINO TOWN OFFICIAL PORTAL
+hero_title: '緑と暮らす。
+
+  未来をつくる。'
+description: お知らせ、暮らしの手続き、イベント、まちの魅力をひとつに。
+subtitle: 架空の自治体・町の情報ポータル
+hero_note: 安心と発見のまち
+about: 「みどり野町」はデモ用の架空自治体です。行政手続き・緊急情報として使用しないでください。
+hero_image: town/hero-landscape.webp

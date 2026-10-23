@@ -1,0 +1,49 @@
+{
+  "sites": {
+    "town": {
+      "name": "Midorino Town",
+      "short_name": "Midorino Town",
+      "kind_label": "Fictional municipality",
+      "hero_title": "Living with nature.\nBuilding the future.",
+      "description": "Town news, everyday services, events and local discoveries in one place.",
+      "subtitle": "A fictional municipal information portal",
+      "hero_note": "A welcoming town to discover",
+      "about": "Midorino Town is fictional. Do not use this demo for official procedures or emergency information.",
+      "source_hash": "7af7736226fbdd6097df74dbe898dafa486590332352a45bc1c229f0775d209f"
+    }
+  },
+  "posts": {
+    "town:community-bus": {
+      "title": "Trial service for the town loop bus",
+      "category": "Transportation",
+      "summary": "A sample article about local public transport.",
+      "cover_alt": "A fictional community bus",
+      "markdown": "This sample announcement imagines a loop bus linking the town center with residential neighborhoods, with spaces for a timetable and a route map.\n\n*The route is fictional. Fares and schedules have not been set.*",
+      "source_hash": "ace7d71fdd5909a769f4b107e8f80df47f9199a57097a77a6fb8d0b3de5db56d"
+    },
+    "town:river-park": {
+      "title": "Discover autumn at Riverside Park",
+      "category": "Sightseeing",
+      "summary": "A peaceful walk with a riverside trail and a small open square.",
+      "cover_alt": "A riverside park in autumn",
+      "markdown": "Our fictional Riverside Park has a relaxed walking trail, perfect for a family stroll.\n\n![Fictional Riverside Park](town/river-park.webp)\n\nVisitors can enjoy riverside plants and the changing colors of the sky through the seasons.",
+      "source_hash": "91ed25a6da92390b3cdc4e4eaebb293995a32ace3505a24945afdd9c4f6f8172"
+    },
+    "town:town-counter": {
+      "title": "Your guide to everyday town services",
+      "category": "Living",
+      "summary": "A sample introduction to resident services and support counters.",
+      "cover_alt": "A fictional town hall",
+      "markdown": "Everyday administrative procedures are easier when information is clear and accessible.\n\n## Services shown in this demo\n\n- Moving and changing your address\n- Childcare and social support\n- Waste disposal and recycling\n\n**This is a demo for a fictional municipality. It cannot be used for real procedures.**",
+      "source_hash": "35b333571b59a5abbe96261260221e837aa55cd2aeeaab3f7f09e680f0e6580d"
+    },
+    "town:harvest-event": {
+      "title": "Announcing the Autumn Harvest Festival",
+      "category": "Events",
+      "summary": "An autumn gathering of local produce and handmade goods.",
+      "cover_alt": "Autumn harvest festival",
+      "markdown": "The fictional Midorino Town is planning an autumn harvest festival.\n\n## Activities\n\n- Farmers and produce market\n- Family-friendly workshops\n- Music performed by local groups\n\n![Autumn community event](town/harvest-festival.webp)\n\n*This is fictional and is not a real event announcement.*",
+      "source_hash": "b089822f56629591bb73b8b9ac4aae2bb4dbf2477dcc010cb63f32a45afe3fb1"
+    }
+  }
+}
