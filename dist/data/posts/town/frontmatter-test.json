@@ -7,6 +7,7 @@
   "type": "article",
   "title": "frontmatter保持テスト",
   "subtitle": "",
+  "author": "",
   "date": "2026-10-25",
   "category": "お知らせ",
   "summary": "Googleドキュメントで編集してもfrontmatterが保持されるかを確認するためのテスト記事です。",
